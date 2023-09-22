@@ -10,26 +10,27 @@ Following is the basic architecture that has been followed :
 And all the following components have been created and added the tf files for them respectively.
 
 
-Custom VPC
+• Custom VPC
 
-2 Subnets (Public)
+• 2 Subnets (Public)
 
-1 Subnet (Private)
+• 1 Subnet (Private)
 
-2 EC2 Instances
+• 2 EC2 Instances
 
-Security Group
+• Security Group
 
-Elastic IP
+• Elastic IP
 
-NAT Gateway
+• NAT Gateway
 
-Internet Gateway
+• Internet Gateway
 
-Route Table
+• Route Table
 
-Application Load Balancer
+• Application Load Balancer
 
-Apache Webserver
+• Apache Webserver
 
-MySQL DB
+. MySQL DB
+
